@@ -104,11 +104,11 @@ Conclusion:
 movies and TV shows (From 2016 data we get to know that Movies is increased by 80% and TV shows is  increased by 73% compare)
 - From the data-set insights we can conclude that the most number of TV Shows released in 2017 and for  Movies it is 2020
 - On Netflix USA has the largest number of contents. And most of the countries preferred to produce movies  more than TV shows.
-- Most of the movies are belonging to 3 categories
-- TOP 3 content categories are International movies , dramas , comedies.
+- Most of the movies are belonging to 4 categories
+- TOP 3 content categories are International movies , Action ,dramas , comedies.
 - 	In text analysis (NLP) I used stop words, removed punctuation's , stemming & TF-IDF vectorizer and other  functions of NLP.
 - 	Applied different clustering models like K-means, hierarchical, Agglomerative clustering, DBSCAN on data we got the best cluster arrangements.
-- 	By applying different clustering algorithms to our data-set .we get the optimal number of  cluster is equal to 3
+- 	By applying different clustering algorithms to our data-set .we get the optimal number of  cluster is equal to 4
 - 	From this clustering analysis we can create Netflix movies and tv shows recommendation systems & also we can use topic modelling.
 
 
