@@ -112,10 +112,6 @@ movies and TV shows (From 2016 data we get to know that Movies is increased by 8
 - 	From this clustering analysis we can create Netflix movies and tv shows recommendation systems & also we can use topic modelling.
 
 
-References:
-
-Wikipedia.
-
 
 
 
